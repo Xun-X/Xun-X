@@ -1,1 +1,1 @@
-[[访问主页]](https://xun-x.github.io/ "访问主页")
+[[點擊訪問主頁]](https://xun-x.github.io/ "[點擊訪問主頁")
